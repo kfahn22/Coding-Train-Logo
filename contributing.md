@@ -11,7 +11,7 @@ Get an overview of the project in [README](https://github.com/CodingTrain/thecod
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): A Coding Train video series for Git and GitHub beginners.
 - [Collaborating With Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests): A GitHub guide on pull requests.
 
-## Contributing to Coding Train
+## Contributing to Coding Train Logo Repo
 
 Here are the types of contributions we are looking for:
 

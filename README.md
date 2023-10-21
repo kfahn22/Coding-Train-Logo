@@ -49,8 +49,7 @@ If you would like assistance or have a question, feel free to open an issue or a
   <img src="variations/moving_train.gif" alt="Moving Logo with Smoke" width="600px">
 
 - [**3D Logo**](https://editor.p5js.org/kfahn/sketches/baNkdJdBE) _by Kathy McGuiness_<br> 
-
-  3D Coding Train Logo
+  3D Coding Train Logo with p5.Geometry.
   <img src="variations/3d-logo.gif" alt="3D logo" width="300px">
   
 ## Ports
